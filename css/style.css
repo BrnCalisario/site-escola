@@ -1,1 +1,6 @@
-
+.header{
+    margin: 40px 0;
+    background-color: #609ef0;
+    /* display: inline-block; */
+    float: left;
+}
