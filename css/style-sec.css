@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;400&display=swap');
+
+.container{
+	max-width: 1440px;
+	margin: 0 auto;
+	
+}
+
+.input{
+	display: block;
+	width: 30%;
+	margin-left: 50px;
+	padding: 10px;
+	margin-bottom: 100px;
+}
+
+.input p{
+	font-size: 25px;
+	padding: 10px;
+}
+
+.input label{
+	padding: 20px;
+}
+
+
+.input input{
+	width: 250px;
+	float: right;
+	height: 30px;
+	border-radius: 5px;
+	border-width: 1px;
+}
+
+.input button{
+	float: right;
+	width: 100px;
+	height: 30px;
+}
+
+body{
+	width: 100%;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 200;
+	margin: 0;
+	
+	
+}
+
+header{
+	background: linear-gradient(68.15deg, #0e1f36 19.62%, #194b91 85.61%);
+	height: 200px;
+}
+
+img{
+	width: 200px;
+	height: 130px;
+	float: left;
+	margin-top: 30px;
+}
+h1{
+	color: #fff;
+	font-size: 40px;
+	float: left;
+	margin-top: 50px;
+}
+
+section{
+	margin-bottom: 250px;
+
+}
+
+nav{
+	float: right;
+	margin-top: 85px;
+}
+
+
+
+nav li{
+	display: inline-block;
+	margin: 25px;
+	
+	
+}
+nav a{
+	text-decoration: none;
+	font-size: 25px ;
+	color: #fff;
+}
+
+nav a:hover{
+	text-decoration: underline;
+}
+
+h2{
+	font-size: 40px;
+	margin-left: 40px;
+}
+
+table, th, td{
+	
+	border: 1px solid;
+	border-collapse: collapse;
+	text-align: center;
+}
+
+table{
+	width: 80%;
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.25) ;
+	margin: 0 auto;
+	font-size: 20px;
+}
+
+th{
+	
+	height: 70px;
+	font-size: 25px;
+}
+td{
+
+	height: 45px;
+}
+
+.botao{
+	margin-top: 150px;
+}
+
+button{
+	display: block;
+	margin-top: 100px;
+	margin: 0 auto;
+	width: 100px;
+	height: 30px;
+}
+
+
+footer{
+	background: linear-gradient(68.15deg, #0e1f36 19.62%, #194b91 85.61%);
+	height: 100px;
+
+
+	
+	
+}

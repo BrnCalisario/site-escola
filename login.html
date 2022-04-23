@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Bruno Oliveira Calisario">
+    <link rel="stylesheet" href="css/style-login.css">
+    <title>Login</title>
+</head>
+<body>
+    
+    <div class="mainbox">
+        <img src="img/negativo-logo.png" alt="Logo Escola">
+        <h1>Escola Negativo</h1>
+        <table>
+            <tr>
+                <td><label>Nome de usuário</label></td>
+                <td><input id="login" type="text" name="Name"></td>
+            </tr>
+            <tr>
+                <td><label>Senha</label></td>
+                <td><input type="text" name="Senha"></td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="botoes">
+        <button id="btn-aluno" onclick="mensagem()">Sou Aluno</button>
+        <button id="btn-resp" onclick=""changeLocation('teste.html'); return false;>Sou Responsável</button>
+        <button id="btn-prof">Sou Professor</button>
+    </div>
+
+    <script>
+        function mensagem(){
+            var nome = document.getElementById("login").value;
+
+            var elemento = document.createElement("p");
+            elemento.textContent = "Bem-vindo " + nome;
+            document.body.appendChild(elemento) ;
+
+        }
+
+        var changeLocation = function(url){
+            window.location.href = url;
+        }
+
+    </script>
+
+
+</body>
+</html>

@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;400&display=swap');
+
+body{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    /* background-color: #46b2f0; */
+    background: linear-gradient(68.15deg, #0e1f36 19.62%, #123669 85.61%);
+    color: white;
+    font-weight: 200;
+    margin-top: 100px;
+}
+
+h1{
+    font-weight: 400;
+}
+
+.botoes{
+    margin-top: 30px;
+}
+
+button{
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    font-family: 'Oswald', sans-serif;
+    margin-bottom: 10px;
+}
+
+#btn-matricula, #btn-material, #btn-forum{
+    background-color: #6b3fd6; 
+}
+
+#btn-matricula:hover, #btn-material:hover, #btn-forum:hover{
+    background-color: #4c2c99;
+}
+
+#btn-at-extras, #btn-notas{
+    background-color: #18b5b0;
+}
+
+#btn-at-extras:hover, #btn-notas:hover{
+    background-color: #107a77;
+}
+
+#btn-boleto, #btn-faltas, #btn-voltar{
+    background-color: #ff934a;
+}
+
+#btn-boleto:hover, #btn-faltas:hover, #btn-voltar:hover{
+    background-color: #b36734;
+}

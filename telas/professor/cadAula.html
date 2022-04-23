@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="Erick Douglas de Mattos">
+    <link rel="stylesheet" href="../../css/style-prof.css">
+    <title>Cadastro de Aula</title>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <img src="../../img/negativo-logo.png" alt="Logo da escola negatica">
+            <h1>Escola Negativa</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Matriculas</a></li>
+                    <li><a href="#">Frequência</a></li>
+                    <li><a href="#">At.Extra</a></li>
+                    <li><a href="#">Notas</a></li>
+                    <li><a href="#">Mensagem</a></li>
+                </ul>
+            </nav>
+
+        </header>
+
+        <section>
+            <div class="main">
+                <div class="left">
+                    <div class="card">
+                        <h2>Cadastro Aula</h2>
+                        <form method="POST" action="aula">
+                            <div class="textfield">
+                                <label for="nomeAula">Nome da Aula</label>
+                                <input type="text" name="nomeAula" id="nomeAula" placeholder="Digite o nome da Aula">
+                            </div>
+
+                            <div class="textfield">
+                                <label for="dataAula">Data da Aula</label>
+                                <input type="date" name="dataAula" id="dataAula" placeholder="Digite a data da Aula">
+                            </div>
+                        </form>
+                    </div>
+                    
+                </div>
+
+                <div class="right">
+                    <div class="card">
+                        <h2>Consultar Aula</h2>
+
+                        <form method="POST" action="aula">
+                            <div class="textfield">
+                                <label for="nomeAula">Nome da Aula</label>
+                                <input type="text" name="nomeAula" id="nomeAula" placeholder="Digite o nome da Aula">
+                            </div>
+
+                            <div class="textfield">
+                                <label for="dataAula">Data da Aula</label>
+                                <input type="date" name="dataAula" id="dataAula" placeholder="Digite a data da Aula">
+                            </div>
+
+                        </form>
+                    </div>
+                    
+                </div>
+            </div>
+
+        </section>
+
+        <div class="botoes">
+            <button id="btn-salvar">Salvar</button>
+        </div>
+
+    </div>
+
+    <footer>
+        <p>Site desenvolvido em 2022 por: Erick, Fernando, Rafael, Mahãyana e Bruno.</p>
+    </footer>
+
+</body>
+
+</html>

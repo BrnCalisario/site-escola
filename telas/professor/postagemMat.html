@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="Erick Douglas de Mattos">
+    <link rel="stylesheet" href="../../css/style-prof.css">
+    <title>Cadastro de Prova</title>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <img src="../../img/negativo-logo.png" alt="Logo da escola negatica">
+            <h1>Escola Negativa</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Matriculas</a></li>
+                    <li><a href="#">Frequência</a></li>
+                    <li><a href="#">At.Extra</a></li>
+                    <li><a href="#">Notas</a></li>
+                    <li><a href="#">Mensagem</a></li>
+                </ul>
+            </nav>
+
+        </header>
+
+        <section>
+            <div class="main">
+                <div class="card">
+                    <h2>Enviar Material de Estudo</h2>
+
+
+                    <form class="enviarEmail">
+                        <div class="textfield">
+                            <!-- Precisa colcoar um botao par ''Adicionar'' cada email -->
+                            <label for="enviarEmail">Enviar para o(s) aluno(s)</label>
+                            <input type="email" name="enviarEmail" id="enviarEmail" placeholder="Digite o(s) E-mail(s)">
+                            <br><br>
+                            <div class="frmFile">
+                                <label for="arquivo">Selecione um arquivo</label>
+                            </div>
+                            <div>
+                                <!-- multiple para adicionar varios arquivos -->
+                                <input type="file" id="arquivo" name="arquivo" multiple>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </section>
+
+        <div class="botoes">
+            <button id="btn-enviar">Enviar</button>
+        </div>
+
+    </div>
+
+    <footer>
+        <p>Site desenvolvido em 2022 por: Erick, Fernando, Rafael, Mahãyana e Bruno.</p>
+    </footer>
+
+</body>
+
+</html>
