@@ -180,3 +180,36 @@ footer {
 	text-align: center;
 	height: 50px;
 }
+
+.input{
+	display: block;
+	width: 30%;
+	margin-left: 50px;
+	padding: 10px;
+	margin-bottom: 100px;
+}
+
+.input p{
+	font-size: 25px;
+	padding: 10px;
+}
+
+.input label{
+	padding: 20px;
+}
+
+
+.input input{
+	width: 250px;
+	float: right;
+	height: 30px;
+	border-radius: 5px;
+	border-width: 1px;
+}
+
+.input button{
+	float: right;
+	width: 100px;
+	height: 30px;
+	
+}
