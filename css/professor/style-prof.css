@@ -92,13 +92,13 @@ nav li{
 }
 nav a{
 	text-decoration: none;
-	font-size: 25px ;
+	font-size: 20px ;
 	color: #fff;
 }
 
-nav a:hover{
+/* nav a:hover{
 	text-decoration: underline;
-}
+} */
 
 h2{
 	font-size: 40px;
