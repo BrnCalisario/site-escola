@@ -3,11 +3,13 @@
 body{
     font-family: 'Oswald', sans-serif;
     text-align: center;
-    /* background-color: #46b2f0; */
-    background: linear-gradient(68.15deg, #0e1f36 19.62%, #123669 85.61%);
+    background: linear-gradient(68.15deg, #0e1f36 19.62%, #194b91 85.61%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
     color: white;
     font-weight: 200;
-    margin-top: 100px;
+    margin-top: 10%;
 }
 
 h1{

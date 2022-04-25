@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="author" content="Erick Douglas de Mattos">
-    <link rel="stylesheet" href="../../css/style-prof.css">
-    <title>Cadastro de Prova</title>
+    <link rel="stylesheet" href="../../css/professor/style-prof.css">
+    <title>Cadastro de Aula</title>
 </head>
 
 <body>
@@ -30,45 +30,49 @@
             <div class="main">
                 <div class="left">
                     <div class="card">
-                        <h2>Cadastro Prova</h2>
-                        <form method="POST" action="prova">
+                        <h2>Cadastro Aula</h2>
+                        <form method="POST" action="aula">
                             <div class="textfield">
-                                <label for="nomeMateria">Nome da Matéria</label>
-                                <input type="text" name="nomeMateria" id="nomeMateria"
-                                    placeholder="Digite o nome da Matéria">
+                                <label for="nomeAula">Nome da Aula</label>
+                                <input type="text" name="nomeAula" id="nomeAula" placeholder="Digite o nome da Aula">
                             </div>
 
                             <div class="textfield">
-                                <label for="dataProva">Data da Prova</label>
-                                <input type="date" name="dataProva" id="dataProva" placeholder="Digie a data da Prova">
+                                <label for="dataAula">Data da Aula</label>
+                                <input type="date" name="dataAula" id="dataAula" placeholder="Digite a data da Aula">
                             </div>
                         </form>
                     </div>
+                    
                 </div>
 
                 <div class="right">
                     <div class="card">
-                        <h2>Consultar Prova </h2>
-                        <form method="POST" action="atividadeExtra">
+                        <h2>Consultar Aula</h2>
+
+                        <form method="POST" action="aula">
                             <div class="textfield">
-                                <label for="nomeMateria">Nome da Matéria</label>
-                                <input type="text" name="nomeMateria" id="nomeMateria"
-                                    placeholder="Digite o nome da Matéria">
+                                <label for="nomeAula">Nome da Aula</label>
+                                <input type="text" name="nomeAula" id="nomeAula" placeholder="Digite o nome da Aula">
                             </div>
 
                             <div class="textfield">
-                                <label for="dataProva">Data da Prova</label>
-                                <input type="date" name="dataProva" id="dataProva" placeholder="Digie a data da Prova">
+                                <label for="dataAula">Data da Aula</label>
+                                <input type="date" name="dataAula" id="dataAula" placeholder="Digite a data da Aula">
                             </div>
+
+                        </form>
                     </div>
-                    </form>
+                    
                 </div>
             </div>
+
         </section>
 
         <div class="botoes">
             <button id="btn-salvar">Salvar</button>
         </div>
+
     </div>
 
     <footer>
