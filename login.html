@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Bruno Oliveira Calisario">
-    <link rel="stylesheet" href="css/style-login.css">
+    <link rel="stylesheet" href="css/login/style-login.css">
     <title>Login</title>
 </head>
 <body>
@@ -29,30 +29,16 @@
     </div>
 
     <div class="botoes">
-        <button id="btn-aluno" onclick="mensagem()">Sou Aluno</button>
-        <button id="btn-resp" onclick=""changeLocation('teste.html'); return false;>Sou Responsável</button>
-        <button id="btn-prof">Sou Professor</button>
+        <a href="telas\aluno\index.html"><button id="btn-aluno">Sou Aluno</button></a>
+        <a href="telas\responsavel\index.html"><button id="btn-resp">Sou Responsável</button></a>
+        <a href="telas\professor\index.html"><button id="btn-prof">Sou Professor</button></a>
     </div>
 
     <footer>
         <p>Todos os Direitos Reservados</p>
     </footer>
 
-    <script>
-        function mensagem(){
-            var nome = document.getElementById("login").value;
 
-            var elemento = document.createElement("p");
-            elemento.textContent = "Bem-vindo " + nome;
-            document.body.appendChild(elemento) ;
-
-        }
-
-        var changeLocation = function(url){
-            window.location.href = url;
-        }
-
-    </script>
 
 
 </body>
