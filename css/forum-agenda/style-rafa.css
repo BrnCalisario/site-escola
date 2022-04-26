@@ -50,7 +50,9 @@ main{
 }
 
 .titulo-main{
-    padding-left: 8px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 45px;
 }
 
 .titulo-forum{
@@ -60,8 +62,8 @@ main{
 }
 
 .visualizacao-lista{
-    width: 50px;
-    font-size: 10px;
+    width: 60px;
+    font-size: 15px;
     background-color: #123669;
     border: none;
     color: rgb(209, 209, 209);
@@ -75,8 +77,8 @@ main{
 }
 
 .visualizacao-cards{
-    width: 50px;
-    font-size: 10px;
+    width: 60px;
+    font-size: 15px;
     background-color: #123669;
     border: none;
     color: rgb(209, 209, 209);
