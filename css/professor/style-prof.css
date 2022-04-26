@@ -242,8 +242,10 @@ button{
 	border: 1px solid;
 	padding: 25px;
     margin-top: 40px;
-    text-align: left;
+    text-align: center;
 }
+
+
 
 footer {
 	position: fixed;
