@@ -1,58 +1,117 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;400&display=swap');
 
-.container{
+/* .container{
 	max-width: 1440px;
 	margin: 0 auto;
-}
-
+} */
+/* 
 body{
 	width: 100%;
 	font-family: 'Oswald', sans-serif;
 	font-weight: 200;
 	margin: 0;
 
+} */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+} 
+
+.container{
+	margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    background-color: aliceblue;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    font-weight: 200;
+}
+
+.link-logo-cabecalho {
+    size: 5px;
+    padding-left: 10px;
+    padding-top: 10px;
+    float: left;
+}
+
+.logo-cabecalho{
+    width: 50px;
+    height: 50px;
+}
+
+.cabecalho-menu {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(209, 209, 209);
+}
+
+.cabecalho {
+    text-align: right;
+    position: relative;
+    background: linear-gradient(68.15deg, #0e1f36 19.62%, #123669 85.61%);
+    height: 65px;
+    box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+.nome-cabecalho{
+    text-align: left;
+    padding-top: 20px;
+    font-weight: 400;
+    font-size: large;
+    margin-left: 80px;
+    color: white;
+    width: 150px;
+    position: absolute;
 }
 
 header{
 	background: linear-gradient(68.15deg, #0e1f36 19.62%, #194b91 85.61%);
 	height: 200px;
 }
-
-img{
-	width: 120px;
-	height: 120px;
-	float: left;
-	margin-top: 38px;
-	margin-left: 50px;
+/* header{
+	background: linear-gradient(68.15deg, #0e1f36 19.62%, #194b91 85.61%);
+	height: 200px;
 }
 
+img{
+	width: 200px;
+	height: 130px;
+	float: left;
+	margin-top: 30px;
+}
 h1{
 	color: #fff;
 	font-size: 40px;
 	float: left;
 	margin-top: 50px;
-	margin-left: 30px;
+}
+*/
+section{
+	margin-top: 100px;
+	margin-bottom: 200px;
 }
 
-nav{
+/* nav{
 	float: right;
 	margin-top: 85px;
-	margin-right: 50px;
-}
+} */
+
 
 nav li{
 	display: inline-block;
-	margin: 15px;
+	margin: 25px;
 }
-
 nav a{
 	text-decoration: none;
 	font-size: 25px ;
 	color: #fff;
-}
-
-nav a:hover{
-	text-decoration: underline;
 }
 
 h2{
@@ -71,7 +130,7 @@ table{
 	width: 200%;
 	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.25) ;
 	margin-left: 40px; /* 0 auto; */
-	font-size: 20px;
+	font-size: 16px;
 }
 
 th{
