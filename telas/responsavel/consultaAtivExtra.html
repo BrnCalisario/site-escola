@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="Erick Douglas de Mattos">
+    <link rel="stylesheet" href="../../css/professor/style-prof.css">
+    <title>Cadastro de Atividade Extra</title>
+</head>
+
+
+<!-- DEIXAR APENAS A CONSULTA DE ATIVIDADES EXTRAS -->
+
+<body>
+    <div class="container">
+        <!-- <header>
+            <img src="../../img/negativo-logo.png" alt="Logo da escola negatica">
+            <h1>Escola Negativo</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Matriculas</a></li>
+                    <li><a href="#">Frequência</a></li>
+                    <li><a href="#">At.Extra</a></li>
+                    <li><a href="#">Notas</a></li>
+                    <li><a href="#">Mensagem</a></li>
+                </ul>
+            </nav>
+
+        </header> -->
+
+        <header class="cabecalho">
+            <nav class="cabecalho-menu">
+                <a href="index.html" target="_blank" rel="noopener noreferrer" class="link-logo-cabecalho">
+                    <img src="../../img/logo.png" class="logo-cabecalho" alt="Logo da Escola Negativo: um polegar virado para baixo">
+                </a>
+                <a href="index.html" target="_blank" rel="noopener noreferrer">
+                    <p class="nome-cabecalho">Escola Negativo</p>
+                </a>
+                <ul class="menu">
+                    <li><a href="matricula.html">Matriculas</a></li>
+                    <li><a href="notas.html">Notas</a></li>
+                    <li><a href="relatorioAluno.html">Relatório Aluno</a></li>
+                    <li><a href="relatorioProvas.html">Relatório Provas</a></li>
+                    <li><a href="frequenciaRelatorio.html">Relatório Frequencia</a></li>
+                    <li><a href="boleto.html">Boletos</a></li>
+                    <li><a href="../../login.html">Sair</a></li>
+				</ul>
+            </nav>
+        </header>
+
+        <section>
+            <div class="main">
+                <div class="left">
+                    <div class="card">
+                    <h2>Cadastro de Atividade Extra</h2>
+                    <form method="POST" action="atividadeExtra">
+                        <div class="textfield">
+                            <label for="nomeAluno">Nome da Aluno</label>
+                            <input type="text" name="nomeAluno" id="nomeAluno" placeholder="Digite o nome do Aluno">
+                        </div>
+
+                        <div class="textfield">
+                            <label for="nomeAtividade">Nome da Atividade</label>
+                            <input type="text" name="nomeAtividade" id="nomeAtividade"   placeholder="Digite o nome da Atividade Extra">
+                        </div>
+                        <div class="textfield">
+                            <label for="dataAtividade">Data da Atividade</label>
+                            <input type="date" name="dataAtividade" id="dataAtividade"  placeholder="Digite a data da Atividade">
+                        </div>
+                    </form>
+                    </div>
+                </div>
+                
+                <div class="right">
+                    <div class="card">
+                        <h2>Consultar Atividade Extra</h2>
+                        <form method="POST" action="atividadeExtra">
+                            <div class="textfield">
+                                <label for="nomeAluno">Nome da Aluno</label>
+                                <input type="text" name="nomeAluno" id="nomeAluno" placeholder="Digite o nome do Aluno">
+                            </div>
+
+                            <div class="textfield">
+                                <label for="nomeAtividade">Nome da Atividade</label>
+                                <input type="text" name="nomeAtividade" id="nomeAtividade" placeholder="Digite o nome da Atividade Extra">
+                            </div>
+                            <div class="textfield">
+                                <label for="dataAtividade">Data da Atividade</label>
+                                <input type="date" name="dataAtividade" id="dataAtividade" placeholder="Digite a data da Atividade">
+                            </div>
+                    </div>
+                    </form>
+                </div>
+            </div>
+        </section>
+
+        <div class="botoes">
+            <button id="btn-salvar">Salvar</button>
+        </div>
+    </div>
+
+    <footer>
+        <p>Site desenvolvido em 2022 por: Erick, Fernando, Rafael, Mahãyana e Bruno.</p>
+    </footer>
+
+</body>
+
+</html>
