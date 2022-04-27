@@ -28,7 +28,7 @@ body{
 body{
     font-family: 'Oswald', sans-serif;
     text-align: center;
-    background-color: aliceblue;
+    background-color: rgb(246, 248, 250);
     background-repeat: no-repeat;
     background-attachment: fixed;
     
@@ -48,7 +48,7 @@ body{
 }
 
 .cabecalho-menu {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
     color: rgb(209, 209, 209);
 }
 
@@ -110,7 +110,7 @@ nav li{
 }
 nav a{
 	text-decoration: none;
-	font-size: 25px ;
+	font-size: 1em ;
 	color: #fff;
 }
 

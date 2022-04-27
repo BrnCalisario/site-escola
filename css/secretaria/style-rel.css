@@ -28,7 +28,7 @@
 body{
     font-family: 'Oswald', sans-serif;
     text-align: center;
-    background-color: aliceblue;
+    background-color: rgb(246, 248, 250);
     background-repeat: no-repeat;
     background-attachment: fixed;
     
@@ -48,7 +48,7 @@ body{
 }
 
 .cabecalho-menu {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
     color: rgb(209, 209, 209);
 }
 
@@ -74,6 +74,7 @@ body{
 header{
 	background: linear-gradient(68.15deg, #0e1f36 19.62%, #194b91 85.61%);
 	height: 200px;
+	position: fixed;
 }
 /* header{
 	background: linear-gradient(68.15deg, #0e1f36 19.62%, #194b91 85.61%);
@@ -111,7 +112,7 @@ nav li{
 }
 nav a{
 	text-decoration: none;
-	font-size: 25px ;
+	font-size: 1em;
 	color: #fff;
 }
 
