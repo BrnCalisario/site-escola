@@ -9,8 +9,8 @@
 } 
 
 main{
-    background: linear-gradient(68.15deg, #f3f3f3 19.62%, #eaeaea 85.61%);
-    height: 540px;
+    background-color: rgb(246, 248, 250);
+    padding-bottom: 200px;
 }
 
 .link-logo-cabecalho {
@@ -416,6 +416,17 @@ input:hover{
 }
 
 .table-responsive{
-    padding-left: 300px;
+    padding-left: 460px;
     padding-top: 0;
+}
+
+footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background: linear-gradient(68.15deg, #0e1f36 19.62%, #194b91 85.61%);
+	color: white;
+	text-align: center;
+	height: 50px;
 }

@@ -190,3 +190,14 @@ article{
 	text-decoration: underline;
 	font-weight: bolder;
 }
+
+footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background: linear-gradient(68.15deg, #0e1f36 19.62%, #194b91 85.61%);
+	color: white;
+	text-align: center;
+	height: 50px;
+}

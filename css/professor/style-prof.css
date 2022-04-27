@@ -193,7 +193,8 @@ h2{
 }
 
 .textfield > label {
-    color: white;
+    color: black;
+    font-weight: 400;
     margin: 10px;
 }
 
