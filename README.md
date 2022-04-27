@@ -41,3 +41,5 @@ Terá como base os casos de uso requisitados pelos usuários fictícios:
   - Comunicação com os reponsáveis via SMS e e-mail.
   - Controle da aprovação dos professores quanto as atividades extras dos alunos.
   - Que o sistema exporte informações sobre atividades extras dos alunos.
+
+  [Acesso ao site](login.html)
