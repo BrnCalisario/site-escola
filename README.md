@@ -42,4 +42,4 @@ Terá como base os casos de uso requisitados pelos usuários fictícios:
   - Controle da aprovação dos professores quanto as atividades extras dos alunos.
   - Que o sistema exporte informações sobre atividades extras dos alunos.
 
-  [Acesso ao site](login.html)
+  [Acesso ao site](https://brncalisario.github.io/site-escola/login.html)
