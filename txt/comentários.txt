@@ -1,0 +1,8 @@
+tela de lançamento de notas
+
+acrescentar inputs na tela de aulas
+
+acrescentar botão para voltar ao menu anterior
+
+acrescentar tela para cadastro de faltas, fazer um cálculo com base
+
