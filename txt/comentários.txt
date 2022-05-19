@@ -6,3 +6,4 @@ acrescentar botão para voltar ao menu anterior
 
 acrescentar tela para cadastro de faltas, fazer um cálculo com base
 
+tá faltando cadastro aula na tela e atividade extra do menu do professor

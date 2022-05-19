@@ -51,13 +51,11 @@ ano
 nota
 
 relatório de frequencia:
-matricula
-nome
-materia 1
-materia 2
-materia 3
-materia 4
+turma
+matéria
+cpf
 total faltas
+total aulas
 
 cadastrar boleto:
 numero da matricula
