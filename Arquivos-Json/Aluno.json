@@ -1,0 +1,1003 @@
+[{  "idAluno":"1",
+    "nome":"Ana Rodrigues Barbosa",
+    "cpf":"626.126.133-40",
+    "dataNascimento":"15/02/2011",
+    "email":"AnaRodrigues2011@hotmail.com.br",
+    "telefone":"(41) 3589-9992",
+    "endereco":"Rua Rafael Picoli, 1458",
+    "ano":"6º ano",
+    "senha":"33045",
+    "resultadoConhecGerais":{
+        "idAula":"1",
+        "conhecGerais":[{
+        "idProva": "1",
+        "prova1":"5.8"
+    },{
+        "idProva":"2",
+        "prova2":"8.7"
+    },{
+        "idNotaFinal":"1",
+        "notaFinal":"7.3"
+    },{
+        "idFrequencia":"1",
+        "frequencia":"80%"
+    },{
+        "idSituacao":"1",
+        "situacao":"Ótimo"
+    }]},
+    "resultadoEdFisica":{
+        "idAula":"2",
+        "edFisica":[{
+        "idProva": "1",
+        "prova1":"4.7"
+    },{
+        "idProva":"2",
+        "prova2":"5.9"
+    },{
+        "idNotaFinal":"1",
+        "notaFinal":"5.3"
+    },{
+        "idFrequencia":"1",
+        "frequencia":"60%"
+    },{
+        "idSituacao":"1",
+        "situacao":"Razoável"
+    }]},
+    "resultadoIngles":{
+        "idAula":"3",
+        "ingles":[{
+        "idProva": "1",
+        "prova1":"9.6"
+    },{
+        "idProva":"2",
+        "prova2":"10.0"
+    },{
+        "idNotaFinal":"1",
+        "notaFinal":"9.8"
+    },{
+        "idFrequencia":"1",
+        "frequencia":"100%"
+    },{
+        "idSituacao":"1",
+        "situacao":"Excelente"
+    }]},
+    "resultadoEspanhol":{
+        "idAula":"4",
+        "espanhol":[{
+        "idProva": "1",
+        "prova1":"8.1"
+    },{
+        "idProva":"2",
+        "prova2":"9.0"
+    },{
+        "idNotaFinal":"1",
+        "notaFinal":"8.6"
+    },{
+        "idFrequencia":"1",
+        "frequencia":"90%"
+    },{
+        "idSituacao":"1",
+        "situacao":"Ótimo"
+    }]},
+    "resultadoBallet":{
+        "idAula":"5",
+        "ballet":[{
+        "idProva": "1",
+        "prova1":"7.5"
+    },{
+        "idProva":"2",
+        "prova2":"8.3"
+    },{
+        "idNotaFinal":"1",
+        "notaFinal":"7.9"
+    },{
+        "idFrequencia":"1",
+        "frequencia":"90%"
+    },{
+        "idSituacao":"1",
+        "situacao":"Ótimo"
+    }]}
+
+},{
+    "idAluno":"2",
+    "nome":"André Pereira Almeida",
+    "cpf":"975.081.677-32",
+    "dataNascimento":"11/11/2010",
+    "email":"AndreAlmeida10@outlook.com",
+    "telefone":"(41) 8654-3369",
+    "endereco":"Travessa Brumado, 1880",
+    "ano":"7º ano",
+    "senha":"79044",
+    "resultadoConhecGerais":{
+        "idAula":"1",
+        "conhecGerais":[{
+        "idProva": "1",
+        "prova1":"9.0"
+    },{
+        "idProva":"2",
+        "prova2":"10.0"
+    },{
+        "idNotaFinal":"2",
+        "notaFinal":"9.5"
+    },{
+        "idFrequencia":"2",
+        "frequencia":"100%"
+    },{
+        "idSituacao":"2",
+        "situacao":"Excelente"
+    }]},
+    "resultadoEdFisica":{
+        "idAula":"2",
+        "edFisica":[{
+        "idProva": "1",
+        "prova1":"7.5"
+    },{
+        "idProva":"2",
+        "prova2":"6.0"
+    },{
+        "idNotaFinal":"2",
+        "notaFinal":"6.8"
+    },{
+        "idFrequencia":"2",
+        "frequencia":"50%"
+    },{
+        "idSituacao":"2",
+        "situacao":"Razoável"
+    }]},
+    "resultadoIngles":{
+        "idAula":"3",
+        "ingles":[{
+        "idProva": "1",
+        "prova1":"9.0"
+    },{
+        "idProva":"2",
+        "prova2":"8.9"
+    },{
+        "idNotaFinal":"2",
+        "notaFinal":"9.0"
+    },{
+        "idFrequencia":"2",
+        "frequencia":"100%"
+    },{
+        "idSituacao":"2",
+        "situacao":"Excelente"
+    }]},
+    "resultadoEspanhol":{
+        "idAula":"4",
+        "espanhol":[{
+        "idProva": "1",
+        "prova1":"8.7"
+    },{
+        "idProva":"2",
+        "prova2":"7.0"
+    },{
+        "idNotaFinal":"2",
+        "notaFinal":"7.6"
+    },{
+        "idFrequencia":"2",
+        "frequencia":"80%"
+    },{
+        "idSituacao":"2",
+        "situacao":"Bom"
+    }]},
+    "resultadoJudo":{
+        "idAula":"6",
+        "judo":[{
+        "idProva": "1",
+        "prova1":"5.6"
+    },{
+        "idProva":"2",
+        "prova2":"6.9"
+    },{
+        "idNotaFinal":"1",
+        "notaFinal":"6.3"
+    },{
+        "idFrequencia":"1",
+        "frequencia":"70%"
+    },{
+        "idSituacao":"1",
+        "situacao":"Razoável"
+    }]}
+       
+},{
+    "idAluno":"3",
+    "nome":"Carlos Ferreira Cavalcanti",
+    "cpf":"459.140.767-57",
+    "dataNascimento":"21/05/2010",
+    "email":"CarlosFC@gmail.com",
+    "telefone":"(41) 9906-4050",
+    "endereco":"Rua dos Pedreiros, 1211",
+    "ano":"7º ano",
+    "senha":"85064",
+    "resultadoConhecGerais":{
+        "idAula":"1",
+        "conhecGerais":[{
+        "idProva": "1",
+        "prova1":"6.8"
+    },{
+        "idProva":"2",
+        "prova2":"8.9"
+    },{
+        "idNotaFinal":"3",
+        "notaFinal":"7.6"
+    },{
+        "idFrequencia":"3",
+        "frequencia":"90%"
+    },{
+        "idSituacao":"3",
+        "situacao":"Ótimo"
+    }]},
+    "resultadoEdFisica":{
+        "idAula":"2",
+        "edFisica":[{
+        "idProva": "1",
+        "prova1":"9.2"
+    },{
+        "idProva":"2",
+        "prova2":"9.5"
+    },{
+        "idNotaFinal":"3",
+        "notaFinal":"9.4"
+    },{
+        "idFrequencia":"3",
+        "frequencia":"100%"
+    },{
+        "idSituacao":"3",
+        "situacao":"Excelente"
+    }]},
+    "resultadoIngles":{
+        "idAula":"3",
+        "ingles":[{
+        "idProva": "1",
+        "prova1":"10.0"
+    },{
+        "idProva":"2",
+        "prova2":"9.9"
+    },{
+        "idNotaFinal":"3",
+        "notaFinal":"10.0"
+    },{
+        "idFrequencia":"3",
+        "frequencia":"100%"
+    },{
+        "idSituacao":"3",
+        "situacao":"Excelente"
+    }]},
+    "resultadoEspanhol":{
+        "idAula":"4",
+        "espanhol":[{
+        "idProva": "1",
+        "prova1":"7.7"
+    },{
+        "idProva":"2",
+        "prova2":"9.3"
+    },{
+        "idNotaFinal":"3",
+        "notaFinal":"8.5"
+    },{
+        "idFrequencia":"3",
+        "frequencia":"90%"
+    },{
+        "idSituacao":"3",
+        "situacao":"Ótimo"
+    }]},
+    "resultadoJudo":{
+        "idAula":"6",
+        "judo":[{
+        "idProva": "1",
+        "prova1":"7.8"
+    },{
+        "idProva":"2",
+        "prova2":"8.0"
+    },{
+        "idNotaFinal":"3",
+        "notaFinal":"7.9"
+    },{
+        "idFrequencia":"3",
+        "frequencia":"80%"
+    },{
+        "idSituacao":"3",
+        "situacao":"Bom"
+    }]}
+},{
+    "idAluno":"4",
+    "nome":"Fábio Azevedo Araujo",
+    "cpf":"626.205.162-77",
+    "dataNascimento":"09/03/2012",
+    "email":"FabioAzevedoAraujo@gmail.com.br",
+    "telefone":"(41) 3394-2201",
+    "endereco":"Rua Padre Cícero Romão, 622",
+    "ano":"5º ano",
+    "senha":"24732",
+    "resultadoConhecGerais":{
+        "idAula":"1",
+        "conhecGerais":[{
+        "idProva": "1",
+        "prova1":"3.4"
+    },{
+        "idProva":"2",
+        "prova2":"5.2"
+    },{
+        "idNotaFinal":"4",
+        "notaFinal":"4.3"
+    },{
+        "idFrequencia":"4",
+        "frequencia":"90%"
+    },{
+        "idSituacao":"4",
+        "situacao":"Ótimo"
+    }]},
+    "resultadoEdFisica":{
+        "idAula":"2",
+        "edFisica":[{
+        "idProva": "1",
+        "prova1":"10.0"
+    },{
+        "idProva":"2",
+        "prova2":"8.8"
+    },{
+        "idNotaFinal":"4",
+        "notaFinal":"9.4"
+    },{
+        "idFrequencia":"4",
+        "frequencia":"100%"
+    },{
+        "idSituacao":"4",
+        "situacao":"Excelente"
+    }]},
+    "resultadoIngles":{
+        "idAula":"3",
+        "ingles":[{
+        "idProva": "1",
+        "prova1":"6.5"
+    },{
+        "idProva":"2",
+        "prova2":"6.0"
+    },{
+        "idNotaFinal":"4",
+        "notaFinal":"6.3"
+    },{
+        "idFrequencia":"4",
+        "frequencia":"90%"
+    },{
+        "idSituacao":"4",
+        "situacao":"Ótimo"
+    }]},
+    "resultadoEspanhol":{
+        "idAula":"4",
+        "espanhol":[{
+        "idProva": "1",
+        "prova1":"5.9"
+    },{
+        "idProva":"2",
+        "prova2":"6.1"
+    },{
+        "idNotaFinal":"4",
+        "notaFinal":"6.0"
+    },{
+        "idFrequencia":"4",
+        "frequencia":"90%"
+    },{
+        "idSituacao":"4",
+        "situacao":"Ótimo"
+    }]},
+    "resultadoJudo":{
+        "idAula":"6",
+        "judo":[{
+        "idProva": "1",
+        "prova1":"7.0"
+    },{
+        "idProva":"2",
+        "prova2":"7.1"
+    },{
+        "idNotaFinal":"4",
+        "notaFinal":"7.1"
+    },{
+        "idFrequencia":"4",
+        "frequencia":"100%"
+    },{
+        "idSituacao":"4",
+        "situacao":"Excelente"
+    }]}
+
+},{
+    "idAluno":"5",
+    "nome":"Gabriela Barros Alves",
+    "cpf":"302.025.602-01",
+    "dataNascimento":"13/09/2013",
+    "email":"GabrielaAlves@gmail.com",
+    "telefone":"(41) 3764-2022",
+    "endereco":"Rua Itália, 1848",
+    "ano":"4º ano",
+    "senha":"26413",
+    "resultadoConhecGerais":{
+        "idAula":"1",
+        "conhecGerais":[{
+        "idProva": "1",
+        "prova1":"5.8"
+    },{
+        "idProva":"2",
+        "prova2":"8.0"
+    },{
+        "idNotaFinal":"5",
+        "notaFinal":"6.9"
+    },{
+        "idFrequencia":"5",
+        "frequencia":"100%"
+    },{
+        "idSituacao":"5",
+        "situacao":"Excelente"
+    }]},
+    "resultadoEdFisica":{
+        "idAula":"2",
+        "edFisica":[{
+        "idProva": "1",
+        "prova1":"7.4"
+    },{
+        "idProva":"2",
+        "prova2":"7.1"
+    },{
+        "idNotaFinal":"5",
+        "notaFinal":"7.3"
+    },{
+        "idFrequencia":"5",
+        "frequencia":"100%"
+    },{
+        "idSituacao":"5",
+        "situacao":"Excelente"
+    }]},
+    "resultadoIngles":{
+        "idAula":"3",
+        "ingles":[{
+        "idProva": "1",
+        "prova1":"9.0"
+    },{
+        "idProva":"2",
+        "prova2":"8.6"
+    },{
+        "idNotaFinal":"5",
+        "notaFinal":"8.8"
+    },{
+        "idFrequencia":"5",
+        "frequencia":"100%"
+    },{
+        "idSituacao":"5",
+        "situacao":"Excelente"
+    }]},
+    "resultadoEspanhol":{
+        "idAula":"4",
+        "espanhol":[{
+        "idProva": "1",
+        "prova1":"7.5"
+    },{
+        "idProva":"2",
+        "prova2":"9.6"
+    },{
+        "idNotaFinal":"5",
+        "notaFinal":"8.6"
+    },{
+        "idFrequencia":"5",
+        "frequencia":"100%"
+    },{
+        "idSituacao":"5",
+        "situacao":"Excelente"
+    }]},
+    "resultadoBallet":{
+        "idAula":"6",
+        "ballet":[{
+        "idProva": "1",
+        "prova1":"8.2"
+    },{
+        "idProva":"2",
+        "prova2":"9.1"
+    },{
+        "idNotaFinal":"5",
+        "notaFinal":"8.7"
+    },{
+        "idFrequencia":"5",
+        "frequencia":"100%"
+    },{
+        "idSituacao":"5",
+        "situacao":"Excelente"
+    }]}
+},{
+    "idAluno":"6",
+    "nome":"Luiza Barbosa Gomes",
+    "cpf":"929.045.378-80",
+    "dataNascimento":"19/03/2011",
+    "email":"Luiza041Gomes@hotmail.com",
+    "telefone":"(41) 3074-8959",
+    "endereco":"Rua Itapira, 192",
+    "ano":"6º ano",
+    "senha":"18410",
+    "resultadoConhecGerais":{
+        "idAula":"1",
+        "conhecGerais":[{
+        "idProva": "1",
+        "prova1":"3.5"
+    },{
+        "idProva":"2",
+        "prova2":"4.7"
+    },{
+        "idNotaFinal":"6",
+        "notaFinal":"4.1"
+    },{
+        "idFrequencia":"6",
+        "frequencia":"40%"
+    },{
+        "idSituacao":"6",
+        "situacao":"Ruim"
+    }]},
+    "resultadoEdFisica":{
+        "idAula":"2",
+        "edFisica":[{
+        "idProva": "1",
+        "prova1":"6.1"
+    },{
+        "idProva":"2",
+        "prova2":"5.9"
+    },{
+        "idNotaFinal":"6",
+        "notaFinal":"6.0"
+    },{
+        "idFrequencia":"6",
+        "frequencia":"60%"
+    },{
+        "idSituacao":"6",
+        "situacao":"Razoável"
+    }]},
+    "resultadoIngles":{
+        "idAula":"3",
+        "ingles":[{
+        "idProva": "1",
+        "prova1":"7.0"
+    },{
+        "idProva":"2",
+        "prova2":"5.6"
+    },{
+        "idNotaFinal":"6",
+        "notaFinal":"6.3"
+    },{
+        "idFrequencia":"6",
+        "frequencia":"50%"
+    },{
+        "idSituacao":"6",
+        "situacao":"Razoável"
+    }]},
+    "resultadoEspanhol":{
+        "idAula":"4",
+        "espanhol":[{
+        "idProva": "1",
+        "prova1":"6.5"
+    },{
+        "idProva":"2",
+        "prova2":"6.6"
+    },{
+        "idNotaFinal":"6",
+        "notaFinal":"6.6"
+    },{
+        "idFrequencia":"6",
+        "frequencia":"70%"
+    },{
+        "idSituacao":"6",
+        "situacao":"Razoável"
+    }]},
+    "resultadoBallet":{
+        "idAula":"6",
+        "ballet":[{
+        "idProva": "1",
+        "prova1":"8.0"
+    },{
+        "idProva":"2",
+        "prova2":"8.5"
+    },{
+        "idNotaFinal":"7",
+        "notaFinal":"8.6"
+    },{
+        "idFrequencia":"7",
+        "frequencia":"80%"
+    },{
+        "idSituacao":"7",
+        "situacao":"Bom"
+    }]}
+},{
+    "idAluno":"7",
+    "nome":"Mariana Carvalho Almeida",
+    "cpf":"817.487.897-16",
+    "dataNascimento":"22/04/2014",
+    "email":"MariCarvalho@gmail.com",
+    "telefone":"(41) 9261-3742",
+    "endereco":"Rua Dezesseis de Julho, 1045",
+    "ano":"3º ano",
+    "senha":"65917",
+    "resultadoConhecGerais":{
+        "idAula":"1",
+        "conhecGerais":[{
+        "idProva": "1",
+        "prova1":"5.0"
+    },{
+        "idProva":"2",
+        "prova2":"7.7"
+    },{
+        "idNotaFinal":"7",
+        "notaFinal":"6.6"
+    },{
+        "idFrequencia":"7",
+        "frequencia":"80%"
+    },{
+        "idSituacao":"7",
+        "situacao":"Bom"
+    }]},
+    "resultadoEdFisica":{
+        "idAula":"2",
+        "edFisica":[{
+        "idProva": "1",
+        "prova1":"7.9"
+    },{
+        "idProva":"2",
+        "prova2":"8.5"
+    },{
+        "idNotaFinal":"7",
+        "notaFinal":"8.2"
+    },{
+        "idFrequencia":"7",
+        "frequencia":"90%"
+    },{
+        "idSituacao":"7",
+        "situacao":"Ótimo"
+    }]},
+    "resultadoIngles":{
+        "idAula":"3",
+        "ingles":[{
+        "idProva": "1",
+        "prova1":"8.6"
+    },{
+        "idProva":"2",
+        "prova2":"7.2"
+    },{
+        "idNotaFinal":"7",
+        "notaFinal":"7.9"
+    },{
+        "idFrequencia":"7",
+        "frequencia":"90%"
+    },{
+        "idSituacao":"7",
+        "situacao":"Ótimo"
+    }]},
+    "resultadoEspanhol":{
+        "idAula":"4",
+        "espanhol":[{
+        "idProva": "1",
+        "prova1":"8.0"
+    },{
+        "idProva":"2",
+        "prova2":"7.1"
+    },{
+        "idNotaFinal":"7",
+        "notaFinal":"7.6"
+    },{
+        "idFrequencia":"7",
+        "frequencia":"80%"
+    },{
+        "idSituacao":"7",
+        "situacao":"Bom"
+    }]},
+    "resultadoBallet":{
+        "idAula":"6",
+        "ballet":[{
+        "idProva": "1",
+        "prova1":"6.0"
+    },{
+        "idProva":"2",
+        "prova2":"7.5"
+    },{
+        "idNotaFinal":"7",
+        "notaFinal":"6.8"
+    },{
+        "idFrequencia":"7",
+        "frequencia":"70%"
+    },{
+        "idSituacao":"7",
+        "situacao":"Razoável"
+    }]}
+},{
+    "idAluno":"8",
+    "nome":"Pedro Almeida Pinto",
+    "cpf":"149.990.728-15",
+    "dataNascimento":"08/06/2016",
+    "email":"PedroAlmeida06@gmail.com",
+    "telefone":"(41) 3488-9055",
+    "endereco":"Rua Piauí, 40",
+    "ano":"1º ano",
+    "senha":"12215",
+        "resultadoConhecGerais":{
+        "idAula":"1",
+        "conhecGerais":[{
+        "idProva": "1",
+        "prova1":"8.0"
+    },{
+        "idProva":"2",
+        "prova2":"7.8"
+    },{
+        "idNotaFinal":"8",
+        "notaFinal":"7.9"
+    },{
+        "idFrequencia":"8",
+        "frequencia":"90%"
+    },{
+        "idSituacao":"8",
+        "situacao":"Ótimo"
+    }]},
+    "resultadoEdFisica":{
+        "idAula":"2",
+        "edFisica":[{
+        "idProva": "1",
+        "prova1":"7.3"
+    },{
+        "idProva":"2",
+        "prova2":"6.5"
+    },{
+        "idNotaFinal":"8",
+        "notaFinal":"6.9"
+    },{
+        "idFrequencia":"8",
+        "frequencia":"80%"
+    },{
+        "idSituacao":"8",
+        "situacao":"Bom"
+    }]},
+    "resultadoIngles":{
+        "idAula":"3",
+        "ingles":[{
+        "idProva": "1",
+        "prova1":"9.6"
+    },{
+        "idProva":"2",
+        "prova2":"9.3"
+    },{
+        "idNotaFinal":"8",
+        "notaFinal":"9.5"
+    },{
+        "idFrequencia":"8",
+        "frequencia":"90%"
+    },{
+        "idSituacao":"8",
+        "situacao":"Ótimo"
+    }]},
+    "resultadoEspanhol":{
+        "idAula":"4",
+        "espanhol":[{
+        "idProva": "1",
+        "prova1":"9.0"
+    },{
+        "idProva":"2",
+        "prova2":"9.9"
+    },{
+        "idNotaFinal":"8",
+        "notaFinal":"9.5"
+    },{
+        "idFrequencia":"8",
+        "frequencia":"100%"
+    },{
+        "idSituacao":"8",
+        "situacao":"Excelente"
+    }]},
+    "resultadoJudo":{
+        "idAula":"6",
+        "judo":[{
+        "idProva": "1",
+        "prova1":"7.8"
+    },{
+        "idProva":"2",
+        "prova2":"9.5"
+    },{
+        "idNotaFinal":"7",
+        "notaFinal":"8.7"
+    },{
+        "idFrequencia":"7",
+        "frequencia":"100%"
+    },{
+        "idSituacao":"7",
+        "situacao":"Excelente"
+    }]}
+},{
+    "idAluno":"9",
+    "nome":"Renato Dias Correia",
+    "cpf":"481.677.108-58",
+    "dataNascimento":"25/12/2010",
+    "email":"RenatoDiasCorreia@hotmail.com",
+    "telefone":"(41) 9152-9618",
+    "endereco":"Rua Mário Gonçalves Medeiros, 14",
+    "ano":"7º ano",
+    "senha":"53160",
+    "resultadoConhecGerais":{
+        "idAula":"1",
+        "conhecGerais":[{
+        "idProva": "1",
+        "prova1":"10.0"
+    },{
+        "idProva":"2",
+        "prova2":"9.9"
+    },{
+        "idNotaFinal":"9",
+        "notaFinal":"10.0"
+    },{
+        "idFrequencia":"9",
+        "frequencia":"100%"
+    },{
+        "idSituacao":"9",
+        "situacao":"Excelente"
+    }]},
+    "resultadoEdFisica":{
+        "idAula":"2",
+        "edFisica":[{
+        "idProva": "1",
+        "prova1":"8.3"
+    },{
+        "idProva":"2",
+        "prova2":"9.0"
+    },{
+        "idNotaFinal":"9",
+        "notaFinal":"8.7"
+    },{
+        "idFrequencia":"9",
+        "frequencia":"90%"
+    },{
+        "idSituacao":"9",
+        "situacao":"Ótimo"
+    }]},
+    "resultadoIngles":{
+        "idAula":"3",
+        "ingles":[{
+        "idProva": "1",
+        "prova1":"9.3"
+    },{
+        "idProva":"2",
+        "prova2":"8.7"
+    },{
+        "idNotaFinal":"9",
+        "notaFinal":"9.0"
+    },{
+        "idFrequencia":"9",
+        "frequencia":"90%"
+    },{
+        "idSituacao":"9",
+        "situacao":"Ótimo"
+    }]},
+    "resultadoEspanhol":{
+        "idAula":"4",
+        "espanhol":[{
+        "idProva": "1",
+        "prova1":"10.0"
+    },{
+        "idProva":"2",
+        "prova2":"9.1"
+    },{
+        "idNotaFinal":"9",
+        "notaFinal":"9.6"
+    },{
+        "idFrequencia":"9",
+        "frequencia":"90%"
+    },{
+        "idSituacao":"9",
+        "situacao":"Ótimo"
+    }]},
+    "resultadoJudo":{
+        "idAula":"6",
+        "judo":[{
+        "idProva": "1",
+        "prova1":"8.8"
+    },{
+        "idProva":"2",
+        "prova2":"8.9"
+    },{
+        "idNotaFinal":"9",
+        "notaFinal":"8.6"
+    },{
+        "idFrequencia":"9",
+        "frequencia":"100%"
+    },{
+        "idSituacao":"9",
+        "situacao":"Excelente"
+    }]}
+},{
+    "idAluno":"10",
+    "nome":"Thais Rocha Santos",
+    "cpf":"988.471.641-25",
+    "dataNascimento":"02/09/2015",
+    "email":"ThaisRocha2010@outlook.com.br",
+    "telefone":"(41) 3617-4152",
+    "endereco":"Rua Camurugipe, 793",
+    "ano":"2º ano",
+    "senha":"43815",
+    "resultadoConhecGerais":{
+        "idAula":"1",
+        "conhecGerais":[{
+        "idProva": "1",
+        "prova1":"9.9"
+    },{
+        "idProva":"2",
+        "prova2":"9.0"
+    },{
+        "idNotaFinal":"9",
+        "notaFinal":"9.6"
+    },{
+        "idFrequencia":"9",
+        "frequencia":"90%"
+    },{
+        "idSituacao":"9",
+        "situacao":"Ótimo"
+    }]},
+    "resultadoEdFisica":{
+        "idAula":"2",
+        "edFisica":[{
+        "idProva": "1",
+        "prova1":"7.6"
+    },{
+        "idProva":"2",
+        "prova2":"9.1"
+    },{
+        "idNotaFinal":"9",
+        "notaFinal":"8.4"
+    },{
+        "idFrequencia":"9",
+        "frequencia":"90%"
+    },{
+        "idSituacao":"9",
+        "situacao":"Ótimo"
+    }]},
+    "resultadoIngles":{
+        "idAula":"3",
+        "ingles":[{
+        "idProva": "1",
+        "prova1":"9.7"
+    },{
+        "idProva":"2",
+        "prova2":"9.4"
+    },{
+        "idNotaFinal":"9",
+        "notaFinal":"9.6"
+    },{
+        "idFrequencia":"9",
+        "frequencia":"60%"
+    },{
+        "idSituacao":"9",
+        "situacao":"Bom"
+    }]},
+    "resultadoEspanhol":{
+        "idAula":"4",
+        "espanhol":[{
+        "idProva": "1",
+        "prova1":"6.7"
+    },{
+        "idProva":"2",
+        "prova2":"10.0"
+    },{
+        "idNotaFinal":"8",
+        "notaFinal":"8.6"
+    },{
+        "idFrequencia":"8",
+        "frequencia":"70%"
+    },{
+        "idSituacao":"8",
+        "situacao":"Razoável"
+    }]},
+    "resultadoBallet":{
+        "idAula":"6",
+        "ballet":[{
+        "idProva": "1",
+        "prova1":"9.6"
+    },{
+        "idProva":"2",
+        "prova2":"8.5"
+    },{
+        "idNotaFinal":"7",
+        "notaFinal":"9.1"
+    },{
+        "idFrequencia":"7",
+        "frequencia":"90%"
+    },{
+        "idSituacao":"7",
+        "situacao":"Ótimo"
+    }]}
+}]

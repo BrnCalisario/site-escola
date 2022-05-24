@@ -1,0 +1,157 @@
+[{
+"idProfessor":"1",
+"nome":"João Rodrigues Lima",
+"materia":
+{
+    "idAula":"1",
+    "nomeAula":"Conhecimentos Gerais",
+
+    "dataAula":
+    [
+        "02/05/2022",
+        "04/05/2022",
+        "06/05/2022",
+        "11/05/2022",
+        "13/05/2022",
+        "16/05/2022"
+    ],
+    "conhecGerais":
+    {
+        "prova1":{
+        "idProva":"1",
+        "dataProva":"09/05/2022"
+        },
+        "prova2":{
+        "idProva":"2",
+        "dataProva":"18/05/2022"
+        }
+    }
+}},{
+
+"idProfessor":"2",
+"nome":"Beatriz Almeida Ferreira",
+"materia":
+{
+    "idAula":"2",
+    "nomeAula": "Educação Física",
+
+    "dataAula":
+    [
+        "03/05/2022",
+        "05/05/2022",
+        "12/05/2022",
+        "17/05/2022"
+    ],
+    "edFisica":
+    {
+        "prova1":{
+        "idProva":"1",
+        "dataProva":"10/05/2022"
+        },
+        "prova2":{
+        "idProva":"2",
+        "dataProva":"19/05/2022"
+        }
+    }
+}},{
+
+"idProfessor":"3",
+"nome":"Laura Santos Martins",
+"materia":
+{
+    "idAula":"3",
+    "nomeAula": "Inglês",
+
+    "dataAula":
+    [
+        "03/05/2022",
+        "05/05/2022",
+        "12/05/2022",
+        "17/05/2022"
+    ],
+    "ingles":
+    {
+        "prova1":{
+        "idProva":"1",
+        "dataProva":"10/05/2022"
+        },
+        "prova2":{
+        "idProva":"2",
+        "dataProva":"19/05/2022"
+        }
+    }
+}},{
+
+"idProfessor":"4",
+"nome":"Marcos Gomes Cavalcanti",
+"materia":
+{
+    "idAula":"4",
+    "nomeAula": "Espanhol",
+    "dataAula":
+    [
+        "03/05/2022",
+        "05/05/2022",
+        "12/05/2022",
+        "17/05/2022"
+    ],
+    "ingles":
+    {
+        "prova1":{
+        "idProva":"1",
+        "dataProva":"10/05/2022"
+        },
+        "prova2":{
+        "idProva":"2",
+        "dataProva":"19/05/2022"
+        }
+    }
+}},{
+
+"idProfessor":"5",
+"nome":"Aline Souza Dias",
+"materia":
+{
+    "idAula":"5",
+    "nomeAula": "Ballet",
+    "dataAula":
+    [
+        "04/05/2022",
+        "18/05/2022"
+    ],
+    "ballet":
+    {
+        "prova1":{
+        "idProva":"1",
+        "dataProva":"11/05/2022"
+        },
+        "prova2":{
+        "idProva":"2",
+        "dataProva":"25/05/2022"
+        }
+    }
+}},{
+
+"idProfessor":"6",
+"nome":"Rafael Cardoso Oliveira",
+"materia":
+{
+    "idAula":"6",
+    "nomeAula": "Judô",
+    "dataAula":
+    [
+        "05/05/2022"
+    ],
+    "judo":
+    {
+        "prova1":{
+        "idProva":"1",
+        "dataProva":"11/05/2022"
+        },
+        "prova2":{
+        "idProva":"2",
+        "dataProva":"25/05/2022"
+        }
+    }
+}
+}]
