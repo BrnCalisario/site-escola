@@ -7,3 +7,10 @@ acrescentar botão para voltar ao menu anterior
 acrescentar tela para cadastro de faltas, fazer um cálculo com base
 
 tá faltando cadastro aula na tela e atividade extra do menu do professor
+
+FREQUÊNCIA:
+EXCELENTE 100%
+ÓTIMO 90%-99,9%
+BOM 80%-89,9%
+RAZOÁVEL 50%-79,9%
+RUIM <50%
