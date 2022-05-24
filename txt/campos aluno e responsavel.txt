@@ -1,64 +1,63 @@
 login:
-nome de usuario
-senha
+cpf ok
+senha ok
 
 aluno:
 
 atividade extra: -mudar a tela de consulta para uma tabela apenas com a visualização-
-nome do aluno
-nome da atividade
-data da atividade
+nome do aluno ok
+nome da atividade ok
+data da atividade ok
 
 cadastro atividade: -mudar a tela de consulta para uma tabela apenas com a visualização-
-nome do aluno
-nome da atividade
-data da atividade
+nome do aluno ok
+nome da atividade ok
+data da atividade ok
 
 relatorio aluno: -vamos inserir novos inputs-
 código da matrícula
 ---
-matéria
-professor
-nota 1
-nota 2
-média nota
-média frequencia
-situação
+matéria ok
+professor ok
+prova 1 ok
+prova 2 ok
+nota final ok
+frequencia ok
+situação ok
 
 relatorio provas: -acrescentar inputs nos relatorios de prova-
-materia
-professor
-p1
-p2
-p3
-p4
-média final
+materia ok
+professor ok
+prova 1 ok
+prova 2 ok
+nota final ok
 
 responsável:
 
 matrícula:
-nome
-email
-cpf
-telefone
-endereço
-período
+nome aluno ok
+email ok
+cpf ok
+telefone ok
+endereço ok
+série/ano ok
+data nascimento ok
 
 notas:
-número da matricula
-materia
-ano
-nota
+cpf ok
+materia ok
+ano ok
+nota ok
 
 relatório de frequencia:
-turma
-matéria
-cpf
-total faltas
-total aulas
+turma ok
+matéria ok
+cpf ok
+frequência ok
+total aulas ok
 
 cadastrar boleto:
-numero da matricula
+cpf ok
 ano
 mes
 enviar arquivo
