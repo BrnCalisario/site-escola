@@ -1,0 +1,4 @@
+VALIDAÇÃO
+Campos de CPF deveriam aceitar apenas 11 dígitos, apenas números, e o campo poderia autopreencher os pontos e hífen. Ex: 000.000.000-00
+Campos de telefone deveriam aceitar apenas 11 dígitos, apenas números, e o campo poderia autopreencher os parênteses e hífen. Ex: (00) 00000-0000
+Campos de data poderiam ser preenchidos apenas pelo datepicker (calendário)
